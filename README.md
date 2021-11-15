@@ -1,5 +1,7 @@
 # Python--Assignment-1-
-1st python assignment, 3 questions. 
+1st python assignment- Functions and conditional programming.
+3 questions. 
+
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/84920516/141838395-5055ba03-533c-44a6-bc60-be20eafc63a1.png)
 ![Screenshot (54)](https://user-images.githubusercontent.com/84920516/141838425-82cf68fa-53eb-4648-bffb-816c8959fc1c.png)
